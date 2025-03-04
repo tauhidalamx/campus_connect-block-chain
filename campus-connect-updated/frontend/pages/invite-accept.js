@@ -1,0 +1,1 @@
+// Placeholder for pages/invite-accept.js
